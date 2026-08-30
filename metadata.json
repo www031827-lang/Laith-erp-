@@ -1,0 +1,6 @@
+{
+  "name": "Laith ERP",
+  "description": "نظام ليث ERP المتكامل لإدارة العمليات المالية، المبيعات، الإنتاج، المخزون، المشتريات، الخزائن، الحسابات وسجل التدقيق",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
